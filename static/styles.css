@@ -1,0 +1,22 @@
+.post-entry.custom {
+  --gap: 1rem;
+
+  display: flex;
+  gap: var(--gap);
+}
+
+.post-entry.custom figure {
+  flex: 1 1 0;
+  margin: 0;
+}
+
+.post-entry.custom figure img {
+  object-fit: cover;
+  height: 100%;
+}
+
+.post-entry.custom main {
+  display: flex;
+  flex-direction: column;
+  flex: 3 1 0;
+}

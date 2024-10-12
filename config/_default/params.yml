@@ -1,0 +1,60 @@
+env: development
+
+profileMode:
+  enabled: false
+
+homeInfoParams:
+  Title: Gecut - The Green Future🌱
+  Content: Crafting eco-friendly web solutions. We build modern websites and apps for a sustainable future.
+
+socialIcons:
+  - name: email
+    url: dev@gecut.ir
+  - name: github
+    url: github.com/gecut
+  - name: phone
+    url: "tel:+989999969776"
+
+cover:
+  hidden: false
+  hiddenInList: false
+  hiddenInSingle: false
+  responsiveImages: true
+
+ShowReadingTime: true
+ShowShareButtons: true
+ShowPostNavLinks: true
+ShowBreadCrumbs: true
+ShowCodeCopyButtons: false
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+
+label:
+  text: Gecut Blog
+  icon: /icon-192.png
+  iconHeight: 32
+
+author:
+  - S. MohammadMahdi Zamanian
+  - Mahdiar Sahbaee
+
+assets:
+  favicon: /favicon.ico
+  favicon16x16: /favicon.ico
+  favicon32x32: /favicon.ico
+
+description: Crafting eco-friendly web solutions. We build modern websites and apps for a sustainable future.
+
+keywords:
+  - Gecut
+  - Development of enterprise web applications
+  - The Green Future
+  - S. MohammadMahdi Zamanian
+  - محمدمهدی زمانیان
+  - Mahdiar Sahbaee
+  - مهدیار صهبايي
+
+#   editPost:
+#     URL: https://github.com/<path_to_repo>/content
+#     Text: Suggest Changes
+#     appendFilePath: true
